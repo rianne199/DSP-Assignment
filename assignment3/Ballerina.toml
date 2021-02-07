@@ -1,0 +1,7 @@
+[package]
+org = "DESKTOP-H8NUIPA"
+name = "assignment3"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
